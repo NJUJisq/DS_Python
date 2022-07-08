@@ -1,0 +1,9 @@
+paramiko
+pytest
+pytest-cov
+setuptools-scm
+psutil
+pytest-mock
+setuptools
+sphinx
+wheel

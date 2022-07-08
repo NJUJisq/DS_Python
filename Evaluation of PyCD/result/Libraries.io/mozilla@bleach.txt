@@ -1,0 +1,11 @@
+six
+flake8
+packaging
+html5lib
+pytest
+webencodings
+twine
+sphinx
+pytest-wholenodeid
+tox
+wheel

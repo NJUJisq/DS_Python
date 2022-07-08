@@ -1,0 +1,4 @@
+pycurl
+tornado
+jinja2
+pillow

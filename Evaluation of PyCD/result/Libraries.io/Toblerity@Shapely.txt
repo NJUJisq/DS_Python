@@ -1,0 +1,7 @@
+cython
+pytest
+pytest-cov
+numpy
+descartes
+setuptools
+wheel

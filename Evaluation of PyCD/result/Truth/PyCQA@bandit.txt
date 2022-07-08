@@ -1,0 +1,17 @@
+colorama
+hacking
+stestr
+pyyaml
+testscenarios
+pbr
+six
+gitpython
+stevedore
+mock
+testtools
+fixtures
+beautifulsoup4
+sphinx-rtd-theme
+sphinx
+pylint
+coverage

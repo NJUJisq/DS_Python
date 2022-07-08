@@ -1,0 +1,17 @@
+pyproj
+geoalchemy2
+geopy
+sqlalchemy
+matplotlib
+rtree
+pandas
+fiona
+pytest
+pytest-cov
+mapclassify
+black
+shapely
+pre-commit
+psycopg2
+codecov
+descartes

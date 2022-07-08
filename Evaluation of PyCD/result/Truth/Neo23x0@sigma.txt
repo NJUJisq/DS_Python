@@ -1,0 +1,15 @@
+requests
+colorama
+stix2
+pyyaml
+attackcti
+progressbar2
+setuptools
+urllib3
+wheel
+pymisp
+pytest
+elasticsearch
+yamllint
+coverage
+elasticsearch-async

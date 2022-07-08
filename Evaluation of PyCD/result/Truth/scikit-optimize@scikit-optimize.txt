@@ -1,0 +1,13 @@
+ipywidgets
+numpy
+matplotlib
+sphinx-gallery
+ipykernel
+pyaml
+scipy
+pytest
+pandas
+numpydoc
+joblib
+sphinx
+scikit-learn

@@ -1,0 +1,11 @@
+flake8
+pytest
+black
+flask
+slackeventsapi
+pytest-cov
+aiohttp
+psutil
+certifi
+codecov
+slackclient

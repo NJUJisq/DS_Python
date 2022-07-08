@@ -1,0 +1,9 @@
+xattr
+flake8
+pytest
+coverage
+macholib
+pre-commit
+pyobjc
+mock
+tox

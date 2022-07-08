@@ -1,0 +1,9 @@
+flake8
+pytest
+mock
+cpyparsing
+pyparsing
+coverage
+pre-commit
+sphinx
+tox

@@ -1,0 +1,6 @@
+pycryptodome
+asttokens
+semantic-version
+recommonmark
+sphinx-rtd-theme
+sphinx

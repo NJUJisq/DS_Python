@@ -1,0 +1,15 @@
+tqdm
+gym
+pytest
+pandas
+scipy
+msgpack
+tensorflow
+numpy
+recommonmark
+m2r
+sphinx-rtd-theme
+msgpack-numpy
+h5py
+matplotlib
+sphinx

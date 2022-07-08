@@ -1,0 +1,5 @@
+mkdocs-material
+torchvision
+mkdocs
+torch
+pyyaml

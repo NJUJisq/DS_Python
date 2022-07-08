@@ -1,0 +1,6 @@
+numpy
+mock
+pandas
+scipy
+pytest
+scikit-learn

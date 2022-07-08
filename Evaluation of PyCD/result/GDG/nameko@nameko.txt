@@ -1,0 +1,10 @@
+six
+kombu
+dnspython
+path.py
+requests
+wrapt
+werkzeug
+eventlet
+mock
+pyyaml

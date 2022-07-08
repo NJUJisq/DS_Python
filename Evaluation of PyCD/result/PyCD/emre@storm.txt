@@ -1,0 +1,7 @@
+paramiko
+termcolor
+six
+flask
+coverage
+nose
+tox

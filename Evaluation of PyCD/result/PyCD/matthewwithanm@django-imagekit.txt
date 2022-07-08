@@ -1,0 +1,11 @@
+beautifulsoup4
+six
+django-celery
+nose-progressive
+django-rq
+django-appconf
+pilkit
+pillow
+django-nose
+nose
+mock

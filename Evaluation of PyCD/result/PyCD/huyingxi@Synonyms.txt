@@ -1,0 +1,6 @@
+six
+synonyms
+absl-py
+scipy
+numpy
+scikit-learn

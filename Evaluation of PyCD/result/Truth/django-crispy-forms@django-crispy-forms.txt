@@ -1,0 +1,10 @@
+pytest-django
+twine
+django
+wheel
+sphinx-rtd-theme
+pytest
+pytest-cov
+pre-commit
+sphinx
+coverage

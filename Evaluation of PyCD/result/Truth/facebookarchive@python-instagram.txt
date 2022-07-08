@@ -1,0 +1,6 @@
+beaker
+six
+bottle
+simplejson
+httplib2
+redis

@@ -1,0 +1,7 @@
+gast
+pandas
+tensorflow
+keras
+keract
+numpy
+matplotlib

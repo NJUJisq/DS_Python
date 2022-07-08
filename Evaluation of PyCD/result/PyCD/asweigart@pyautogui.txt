@@ -1,0 +1,17 @@
+pyscreeze
+python-xlib
+pymsgbox
+mouseinfo
+pyobjc-core
+python3-xlib
+pyobjc
+pytweening
+pygetwindowpython-xlib
+pytweening
+pygetwindow
+pyscreeze
+python3-xlib
+pyobjc-core
+mouseinfo
+pymsgbox
+pyobjc

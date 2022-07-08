@@ -1,0 +1,11 @@
+evm
+dataclasses
+wasm
+pyevmasm
+pysha3
+crytic-compile
+ply
+prettytable
+wrapt
+rlp
+pyyaml

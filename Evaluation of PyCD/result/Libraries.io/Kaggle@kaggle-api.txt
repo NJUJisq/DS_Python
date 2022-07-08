@@ -1,0 +1,8 @@
+six
+tqdm
+restriction
+python-dateutil
+requests
+urllib3
+certifi
+python-slugify

@@ -1,0 +1,4 @@
+sphinx
+sphinxcontrib-dooble
+sphinx-autodoc-typehints
+guzzle-sphinx-theme

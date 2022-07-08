@@ -1,0 +1,13 @@
+beautifulsoup4
+flake8
+html5lib
+csscompressor
+django-sekizai
+lxml
+rjsmin
+django-appconf
+jinja2
+rcssmin
+coverage
+mock
+brotlipy

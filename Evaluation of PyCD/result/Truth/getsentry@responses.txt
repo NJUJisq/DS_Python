@@ -1,0 +1,9 @@
+requests
+six
+pytest-localserver
+mock
+pytest
+pytest-cov
+cookies
+coverage
+flake8

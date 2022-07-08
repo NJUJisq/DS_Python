@@ -1,0 +1,12 @@
+singledispatch
+six
+promise
+graphql-core
+django-filter
+unidecode
+graphene
+sphinx-autobuild
+django
+http
+sphinx
+graphene-django

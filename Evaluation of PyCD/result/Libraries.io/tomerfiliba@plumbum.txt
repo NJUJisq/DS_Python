@@ -1,0 +1,10 @@
+paramiko
+pytest
+idna
+pytest-cov
+pycparser
+psutil
+setuptools
+pytest-mock
+sphinx
+wheel

@@ -1,0 +1,13 @@
+six
+progressbar2
+tensorflow
+scipy
+sphinxcontrib-bibtex
+numpy
+sphinx-rtd-theme
+coverage
+scikit-image
+matplotlib
+mock
+sphinx
+pep8

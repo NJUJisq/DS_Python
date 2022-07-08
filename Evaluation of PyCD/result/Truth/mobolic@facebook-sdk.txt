@@ -1,0 +1,4 @@
+requests
+coverage
+flask-sqlalchemy
+flask

@@ -1,0 +1,6 @@
+protobuf
+numpy
+apache-beam
+six
+keras-preprocessing
+annoy

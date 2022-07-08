@@ -1,0 +1,8 @@
+vcrpy
+six
+lxml
+requests
+pyopenssl
+testtools
+mock
+tox

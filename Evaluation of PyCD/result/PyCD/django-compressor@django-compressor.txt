@@ -1,0 +1,17 @@
+beautifulsoup4
+six
+brotli
+flake8
+html5lib
+csscompressor
+django-sekizai
+lxml
+rjsmin
+django-appconf
+jinja2
+rcssmin
+coverage
+django-classy-tags
+mock
+slimit
+calmjs

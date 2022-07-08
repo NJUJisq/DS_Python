@@ -1,0 +1,11 @@
+django
+mysqlclient
+wheel
+zest.releaser
+sphinx-rtd-theme
+isort
+psycopg2
+coveralls
+diff-match-patch
+sphinx
+tablib

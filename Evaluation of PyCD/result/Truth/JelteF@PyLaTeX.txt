@@ -1,0 +1,17 @@
+3to2
+nose
+future
+pep8-naming
+numpy
+flake8-docstrings
+pydocstyle
+coverage
+matplotlib
+pycodestyle
+pyflakes
+quantities
+sphinx-rtd-theme
+ordered-set
+flake8-putty
+sphinx
+flake8

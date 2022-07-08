@@ -1,0 +1,13 @@
+flake8
+pytest
+twine
+pytest-django
+django-oauth2-provider
+pytest-cov
+mkdocs
+pyjwt
+cryptography
+oauth2
+django-oauth-plus
+pep8
+wheel

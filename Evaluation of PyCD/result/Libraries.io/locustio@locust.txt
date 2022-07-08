@@ -1,0 +1,10 @@
+configargparse
+geventhttpclient-wheels
+flask
+msgpack
+requests
+gevent
+psutil
+sphinx-rtd-theme
+flask-basicauth
+pyzmq

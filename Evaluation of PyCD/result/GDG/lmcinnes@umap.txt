@@ -1,0 +1,13 @@
+bokeh
+scipy
+numba
+seaborn
+numpy
+nose
+sphinx-rtd-theme
+datashader
+pillow
+sphinx-gallery
+matplotlib
+sphinx
+scikit-learn

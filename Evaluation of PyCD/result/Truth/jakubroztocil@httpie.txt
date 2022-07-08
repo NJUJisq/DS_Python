@@ -1,0 +1,11 @@
+requests
+colorama
+pytest-httpbin
+twine
+pycodestyle
+mock
+wheel
+pytest
+pytest-cov
+pygments
+docutils

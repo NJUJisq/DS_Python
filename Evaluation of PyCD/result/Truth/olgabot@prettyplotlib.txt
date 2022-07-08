@@ -1,0 +1,5 @@
+numpy
+six
+matplotlib
+scipy
+brewer2mpl

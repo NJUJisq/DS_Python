@@ -1,0 +1,5 @@
+six
+keras
+h5py
+scikit-image
+matplotlib

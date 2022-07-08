@@ -1,0 +1,11 @@
+protobuf
+pyyaml
+numpy
+matplotlib
+scipy
+tqdm
+scikit-image
+cython
+opencv-python
+easydict
+argparse

@@ -1,0 +1,8 @@
+sphinxcontrib-dooble
+sphinx-autodoc-typehints
+guzzle-sphinx-theme
+pytest
+sphinx
+coverage
+pytest-asyncio
+pytest-runner

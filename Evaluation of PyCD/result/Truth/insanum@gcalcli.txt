@@ -1,0 +1,6 @@
+parsedatetime
+google-api-python-client
+python-dateutil
+vobject
+httplib2
+oauth2client

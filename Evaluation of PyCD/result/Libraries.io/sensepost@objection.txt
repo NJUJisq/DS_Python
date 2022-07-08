@@ -1,0 +1,11 @@
+click
+frida-tools
+flask
+requests
+pygments
+frida
+tabulate
+prompt-toolkit
+litecli
+twine
+delegator.py

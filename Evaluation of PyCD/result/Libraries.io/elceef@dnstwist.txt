@@ -1,0 +1,6 @@
+dnspython
+geoip
+requests
+ppdeep
+whois
+tld

@@ -1,0 +1,9 @@
+colorama
+toml
+mccabe
+pytest-benchmark
+isort
+pytest
+python-docs-theme
+astroid
+pytest-runner

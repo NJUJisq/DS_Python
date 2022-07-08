@@ -1,0 +1,5 @@
+django-annoying
+django-filter
+django
+six
+django-jsonstore

@@ -1,0 +1,5 @@
+gym
+absl-py
+scipy
+pygame
+opencv-python

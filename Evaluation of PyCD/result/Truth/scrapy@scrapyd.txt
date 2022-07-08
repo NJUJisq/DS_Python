@@ -1,0 +1,5 @@
+enum-compat
+scrapy
+twisted
+six
+coverage

@@ -1,0 +1,5 @@
+clint
+sh
+pbs
+pygit2
+argcomplete

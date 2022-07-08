@@ -1,0 +1,6 @@
+vcrpy
+six
+requests
+mock
+testtools
+tox

@@ -1,0 +1,5 @@
+requests
+configparser
+futures
+moviepy
+tqdm

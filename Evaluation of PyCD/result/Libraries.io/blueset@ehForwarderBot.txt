@@ -1,0 +1,11 @@
+sphinx
+e1839a8
+sphinx-autodoc-typehints
+bullet
+ruamel.yaml
+typing-extensions
+sphinx-intl
+sphinxcontrib-restbuilder
+git
+sphinxcontrib-plantuml
+cjkwrap

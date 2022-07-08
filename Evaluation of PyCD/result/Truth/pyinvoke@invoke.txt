@@ -1,0 +1,16 @@
+alabaster
+certifi
+pytest-relaxed
+twine
+mock
+semantic-version
+wheel
+pytest
+pytest-cov
+invocations
+readme-renderer
+sphinx
+releases
+coverage
+codecov
+flake8

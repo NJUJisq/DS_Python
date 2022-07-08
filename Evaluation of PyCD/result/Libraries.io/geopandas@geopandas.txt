@@ -1,0 +1,16 @@
+six
+cython
+psycopg2
+pyproj
+mapclassify
+pytest
+fiona
+pytest-cov
+descartes
+geopy
+codecov
+matplotlib
+mock
+sqlalchemy
+shapely
+rtree

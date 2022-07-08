@@ -1,0 +1,9 @@
+pytest-django
+twine
+psycopg2-binary
+django
+tox
+pytest
+pytest-cov
+sphinx
+freezegun

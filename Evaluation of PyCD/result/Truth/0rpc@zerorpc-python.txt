@@ -1,0 +1,6 @@
+nose
+future
+pyzmq
+msgpack
+argparse
+gevent

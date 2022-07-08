@@ -1,0 +1,14 @@
+textfsm
+paramiko
+pdoc3
+pyats
+pyserial
+pytest
+scp
+genie
+pysnmp
+pylama
+setuptools
+twine
+tox
+pyyaml

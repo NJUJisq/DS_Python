@@ -1,0 +1,9 @@
+pyyaml
+defusedxml
+mock
+python-dateutil
+lxml
+biplist
+pytz
+coverage
+python-mimeparse

@@ -1,0 +1,17 @@
+typing-inspect
+uvloop
+wcwidth
+promise
+graphql-core
+httptools
+click
+parsing
+setproctitle
+setuptools-rust
+asyncpg
+pygments
+setuptools-scm
+psutil
+prompt-toolkit
+edgedb
+immutables

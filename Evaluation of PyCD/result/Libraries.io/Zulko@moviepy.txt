@@ -1,0 +1,4 @@
+pytest
+scandir
+moviepy
+pathlib2

@@ -1,0 +1,6 @@
+gym
+wheel
+absl-py
+scipy
+pygame
+opencv-python

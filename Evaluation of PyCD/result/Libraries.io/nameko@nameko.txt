@@ -1,0 +1,9 @@
+six
+kombu
+requests
+wrapt
+path.py
+werkzeug
+mock
+eventlet
+pyyaml

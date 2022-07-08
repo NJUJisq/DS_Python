@@ -1,0 +1,7 @@
+pytest-httpbin
+pyyaml
+six
+yarl
+mock
+pytest
+wrapt

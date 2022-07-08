@@ -1,0 +1,4 @@
+importlib-resources
+importlib-metadata
+autocommand
+pymongo

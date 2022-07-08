@@ -1,0 +1,6 @@
+seaborn
+pytest-mpl
+numpy
+matplotlib
+scipy
+pytest

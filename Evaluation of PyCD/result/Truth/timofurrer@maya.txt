@@ -1,0 +1,12 @@
+coverage
+snaptime
+pendulum
+humanize
+pytest
+pre-commit
+tzlocal
+sphinx
+pytz
+dateparser
+freezegun
+pytest-mock

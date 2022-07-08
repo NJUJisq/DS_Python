@@ -1,0 +1,7 @@
+requests
+py
+six
+wheel
+pytest
+redis
+ujson

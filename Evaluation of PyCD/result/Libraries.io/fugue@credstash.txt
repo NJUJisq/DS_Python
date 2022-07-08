@@ -1,0 +1,4 @@
+pytest
+cryptography
+boto3
+pyyaml

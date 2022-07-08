@@ -1,0 +1,10 @@
+twine
+pytest-wholenodeid
+packaging
+six
+tox
+wheel
+pytest
+sphinx
+webencodings
+flake8

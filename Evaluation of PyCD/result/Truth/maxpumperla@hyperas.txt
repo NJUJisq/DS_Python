@@ -1,0 +1,6 @@
+jupyter
+keras
+entrypoints
+nbconvert
+hyperopt
+nbformat

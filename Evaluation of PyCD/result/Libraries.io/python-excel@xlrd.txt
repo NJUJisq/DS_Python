@@ -1,0 +1,12 @@
+nose-cov
+six
+setuptools-git
+pkginfo
+panci
+nose
+nose-fixes
+twine
+sphinx
+coveralls
+tox
+wheel

@@ -1,0 +1,5 @@
+notebook
+ipywidgets
+pandas
+pytest
+flake8

@@ -1,0 +1,8 @@
+nose
+termcolor
+flask
+paramiko
+six
+tox
+argparse
+coverage

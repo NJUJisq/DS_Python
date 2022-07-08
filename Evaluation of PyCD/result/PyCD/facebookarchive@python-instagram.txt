@@ -1,0 +1,7 @@
+six
+httplib2
+simplejson
+redis
+beaker
+python-instagram
+bottle

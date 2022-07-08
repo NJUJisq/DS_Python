@@ -1,0 +1,13 @@
+requests
+responses
+virtualenv
+certifi
+filelock
+pluggy
+toml
+py
+chardet
+idna
+six
+urllib3
+tox

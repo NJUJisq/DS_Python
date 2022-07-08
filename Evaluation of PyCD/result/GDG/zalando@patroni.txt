@@ -1,0 +1,13 @@
+pysyncobj
+six
+click
+boto
+kazoo
+prettytable
+psutil
+python-consul
+urllib3
+cdiff
+python-dateutil
+python-etcd
+pyyaml

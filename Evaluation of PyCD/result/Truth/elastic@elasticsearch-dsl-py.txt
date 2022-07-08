@@ -1,0 +1,12 @@
+ipaddress
+six
+mock
+python-dateutil
+sphinx-rtd-theme
+pytest
+pytest-cov
+sphinx
+pytz
+elasticsearch
+coverage
+pytest-mock

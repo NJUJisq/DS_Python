@@ -1,0 +1,14 @@
+click
+flask-admin
+flask
+flask-sqlalchemy
+itsdangerous
+markupsafe
+sphinx-rtd-theme
+wsgiref
+jinja2
+werkzeug
+wtforms
+docopt
+flask-httpauth
+sqlalchemy

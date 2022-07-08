@@ -1,0 +1,7 @@
+six
+pytest
+pytest-cov
+atomiclong
+pygit2
+mock
+fusepy

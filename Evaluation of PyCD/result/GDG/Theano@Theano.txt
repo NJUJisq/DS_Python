@@ -1,0 +1,11 @@
+cython
+six
+parameterized
+pydot2
+scipy
+numpy
+pygments
+gnumpy
+pydot
+nose
+sphinx

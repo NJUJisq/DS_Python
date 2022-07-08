@@ -1,0 +1,9 @@
+pymongo
+click
+flask-wtf
+flask
+itsdangerous
+jinja2
+markupsafe
+werkzeug
+wtforms

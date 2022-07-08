@@ -1,0 +1,13 @@
+update-checker
+black
+pydocstyle
+betamax-matchers
+betamax
+prawcore
+sphinx-rtd-theme
+coveralls
+pytest
+pre-commit
+websocket-client
+sphinx
+flake8

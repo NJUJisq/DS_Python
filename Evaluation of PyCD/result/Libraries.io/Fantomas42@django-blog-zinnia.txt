@@ -1,0 +1,11 @@
+beautifulsoup4
+mots-vides
+django-xmlrpc
+pyparsing
+pytz
+django-tagging
+pillow
+django
+django-contrib-comments
+regex
+django-mptt

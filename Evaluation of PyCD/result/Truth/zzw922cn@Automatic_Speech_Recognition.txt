@@ -1,0 +1,13 @@
+numpy
+librosa
+matplotlib
+six
+sklearn
+xlwt
+scikits.audiolab
+scipy
+tensorflow
+tabulate
+leven
+theano
+scikit-learn

@@ -1,0 +1,12 @@
+alabaster
+hacking
+salt
+setuptools-scm
+tornado
+paramiko
+mock
+pytest-xdist
+pytest-cov
+pywinrm
+sphinx
+ansible

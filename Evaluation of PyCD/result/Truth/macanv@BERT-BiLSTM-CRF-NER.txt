@@ -1,0 +1,11 @@
+tensorflow-gpu
+flask-json
+pyzmq
+numpy
+flask
+six
+termcolor
+tensorflow
+flask-cors
+flask-compress
+gputil

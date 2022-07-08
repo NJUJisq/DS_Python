@@ -1,0 +1,10 @@
+astor
+flake8
+pytest
+pygments
+clint
+sphinx-rtd-theme
+rply
+coverage
+sphinx
+tox

@@ -1,0 +1,7 @@
+sleekxmpp
+appdirs
+requests
+psutil
+mock
+ruamel.yaml
+emoji

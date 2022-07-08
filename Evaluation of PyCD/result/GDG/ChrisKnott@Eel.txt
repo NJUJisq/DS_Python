@@ -1,0 +1,16 @@
+.
+whichcraft
+pytest
+tox-pyenv
+bottle
+greenlet
+gevent-websocket
+gevent
+pytest-timeout
+psutil
+tox-gh-actions
+virtualenv
+bottle-websocket
+future
+selenium
+tox

@@ -1,0 +1,17 @@
+uvloop
+mkdocs-material
+httptools
+click
+flake8
+pytest
+black
+wsproto
+pytest-cov
+isort
+requests
+autoflake
+h11
+websockets
+watchgod
+mkdocs
+codecov

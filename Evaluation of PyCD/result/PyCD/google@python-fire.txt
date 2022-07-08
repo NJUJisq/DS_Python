@@ -1,0 +1,6 @@
+termcolor
+six
+python-levenshtein
+hypothesis
+enum34
+mock

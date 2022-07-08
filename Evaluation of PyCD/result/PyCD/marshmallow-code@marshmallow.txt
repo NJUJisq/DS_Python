@@ -1,0 +1,12 @@
+alabaster
+flake8
+pytest
+mypy
+flake8-bugbear
+simplejson
+sphinx-version-warning
+pytz
+pre-commit
+sphinx
+tox
+sphinx-issues

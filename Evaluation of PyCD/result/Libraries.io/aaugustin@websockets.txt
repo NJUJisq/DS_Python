@@ -1,0 +1,4 @@
+sphinx
+sphinxcontrib-trio
+sphinxcontrib-spelling
+sphinx-autodoc-typehints

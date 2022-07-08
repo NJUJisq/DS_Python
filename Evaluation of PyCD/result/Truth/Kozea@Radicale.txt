@@ -1,0 +1,11 @@
+waitress
+passlib
+pytest-isort
+bcrypt
+defusedxml
+pytest-flake8
+python-dateutil
+vobject
+pytest
+pytest-cov
+pytest-runner

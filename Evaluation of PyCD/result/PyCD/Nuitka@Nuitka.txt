@@ -1,0 +1,17 @@
+scons
+redbaron
+appdirs
+pytest
+baron
+black
+pygments
+isort
+jinja2
+pylint
+virtualenv
+pefile
+doc8
+doxypypy
+astroid
+codespell
+wheel

@@ -1,0 +1,9 @@
+numpydoc
+lz4
+pandas
+numpy
+pillow
+sphinx-gallery
+matplotlib
+sphinx
+distributed

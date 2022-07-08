@@ -1,0 +1,9 @@
+six
+pywinauto
+opencv-contrib-python
+requests
+numpy
+jinja2
+pillow
+matplotlib
+mss

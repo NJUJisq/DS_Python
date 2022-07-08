@@ -1,0 +1,15 @@
+flask-sqlalchemy
+markupsafe
+itsdangerous
+sqlalchemy
+flask
+wsgiref
+jinja2
+flask-httpauth
+click
+sphinx-rtd-theme
+docopt
+pytest
+wtforms
+flask-admin
+werkzeug

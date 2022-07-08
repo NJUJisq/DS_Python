@@ -1,0 +1,9 @@
+tqdm
+click
+pyinstaller
+requests
+jinja2
+coverage
+markdown2
+pygithub
+mock

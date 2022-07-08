@@ -1,0 +1,10 @@
+pytest
+pycodestyle
+pytest-cov
+pygments
+docutils
+requests
+pytest-httpbin
+mock
+twine
+wheel

@@ -1,0 +1,5 @@
+torchvision
+tqdm
+joblib
+opencv-python
+pillow

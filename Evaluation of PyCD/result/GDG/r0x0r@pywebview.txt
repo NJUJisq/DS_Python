@@ -1,0 +1,6 @@
+importlib-resources
+pythonnet
+pyqt5
+flask
+pywebview
+pyobjc

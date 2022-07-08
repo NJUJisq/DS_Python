@@ -1,0 +1,14 @@
+ipdb
+psycopg2
+whitenoise
+simplejson
+gunicorn
+dj-database-url
+djangorestframework
+openapi-codec
+coverage
+coreapi
+mkdocs
+pylint
+django
+tox

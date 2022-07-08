@@ -1,0 +1,8 @@
+importlib-resources
+pymongo
+elastic2-doc-manager
+autocommand
+setuptools-scm
+elastic-doc-manager
+importlib-metadata
+solr-doc-manager

@@ -1,0 +1,9 @@
+pytest
+pytest-cov
+requests
+docutils
+pygments
+pytest-httpbin
+mock
+tox
+wheel

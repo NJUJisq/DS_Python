@@ -1,0 +1,4 @@
+matplotlib
+scipy
+seaborn
+numpy

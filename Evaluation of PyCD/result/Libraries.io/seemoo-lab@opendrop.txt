@@ -1,0 +1,11 @@
+flake8
+pytest
+ctypescrypto
+ifaddr
+fleep
+requests
+requests-toolbelt
+libarchive-c
+pillow
+zeroconf
+yapf

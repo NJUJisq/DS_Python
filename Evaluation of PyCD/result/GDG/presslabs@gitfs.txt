@@ -1,0 +1,10 @@
+six
+pytest
+pytest-cov
+cffi
+atomiclong
+pycparser
+pygit2
+raven
+mock
+fusepy

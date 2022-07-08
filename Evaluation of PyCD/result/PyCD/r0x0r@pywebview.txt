@@ -1,0 +1,10 @@
+cefpython3
+pygobject
+pythonnet
+importlib-resources
+pyqt5
+flask
+pyqtwebengine
+pywebview
+pyobjc
+py2app

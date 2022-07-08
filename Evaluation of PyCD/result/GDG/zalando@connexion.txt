@@ -1,0 +1,16 @@
+six
+testfixtures
+connexion
+pytest
+inflection
+flask
+python-jose
+pytest-cov
+openapi-spec-validator
+aiohttp
+pytest-aiohttp
+decorator
+mock
+aiohttp-jinja2
+aiohttp-swagger
+sqlalchemy

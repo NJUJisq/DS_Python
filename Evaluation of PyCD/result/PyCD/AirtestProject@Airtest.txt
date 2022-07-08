@@ -1,0 +1,15 @@
+matplotlib
+six
+pywin32
+pywinauto
+recommonmark
+opencv-contrib-python
+requests
+numpy
+jinja2
+sphinx-rtd-theme
+pillow
+nose
+mock
+sphinx
+mss

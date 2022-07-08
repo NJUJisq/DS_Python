@@ -1,0 +1,11 @@
+sphinxcontrib-plantuml
+mypy
+pytest
+sphinx-autodoc-typehints
+ruamel.yaml
+typing-extensions
+sphinx-intl
+bullet
+sphinxcontrib-restbuilder
+sphinx
+cjkwrap

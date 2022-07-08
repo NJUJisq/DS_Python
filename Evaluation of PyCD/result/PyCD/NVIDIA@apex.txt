@@ -1,0 +1,7 @@
+tqdm
+flake8
+pytest
+numpy
+cxxfilt
+sphinx
+pyyaml

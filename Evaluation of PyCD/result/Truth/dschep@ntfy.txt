@@ -1,0 +1,17 @@
+requests
+appdirs
+rocketchat-api
+emoji
+instapush
+slacker
+matrix-client
+pywin32
+sleekxmpp
+psutil
+ruamel.yaml
+mock
+dnspython3
+telegram-send
+pyobjc
+dnspython
+pyobjc-core

@@ -1,0 +1,14 @@
+configargparse
+flask
+msgpack
+requests
+gevent
+psutil
+sphinx-rtd-theme
+pyquery
+flask-basicauth
+cryptography
+pyzmq
+mock
+sphinx
+geventhttpclient

@@ -1,0 +1,14 @@
+futures
+newrelic
+pycurl
+tornado
+requests
+nose
+ipython
+elasticsearch
+coverage
+markdown
+nbconvert
+pylibmc
+invoke
+mock

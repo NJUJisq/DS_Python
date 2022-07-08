@@ -1,0 +1,9 @@
+cupy
+numpy
+spacy
+pynvrtc
+msgpack-python
+pandas
+pytest
+ninja
+torch

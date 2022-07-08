@@ -1,0 +1,12 @@
+scandir
+pytest
+imageio
+pytest-cov
+numpy
+requests
+pathlib2
+coverage
+decorator
+proglog
+coveralls
+imageio-ffmpeg

@@ -1,0 +1,16 @@
+nassl
+pytest
+black
+twine
+sphinx-autodoc-typehints
+flake8
+pytest-cov
+mypy
+cx-freeze
+typing-extensions
+sphinx-rtd-theme
+invoke
+tls-parser
+faker
+sphinx
+cryptography

@@ -1,0 +1,8 @@
+flask-wtf
+flask
+itsdangerous
+flask-principal
+flask-login
+passlib
+flask-babelex
+flask-mail

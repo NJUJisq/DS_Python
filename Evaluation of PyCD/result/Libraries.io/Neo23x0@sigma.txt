@@ -1,0 +1,13 @@
+pymisp
+pytest
+elasticsearch-async
+progressbar2
+yamllint
+requests
+urllib3
+elasticsearch
+coverage
+setuptools
+colorama
+wheel
+pyyaml

@@ -1,0 +1,11 @@
+matplotlib
+six
+keras
+pytest-pep8
+pytest-xdist
+pytest
+scikit-image
+pytest-cov
+imageio
+pillow
+h5py

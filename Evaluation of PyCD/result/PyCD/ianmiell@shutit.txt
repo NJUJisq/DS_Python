@@ -1,0 +1,8 @@
+six
+jinja2
+future
+pygithub
+curtsies
+cjkwrap
+pexpect
+texttable

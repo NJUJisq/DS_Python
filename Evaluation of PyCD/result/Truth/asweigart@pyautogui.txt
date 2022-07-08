@@ -1,0 +1,9 @@
+pytweening
+python-xlib
+python3-xlib
+pyscreeze
+mouseinfo
+pygetwindow
+pyobjc
+pyobjc-core
+pymsgbox

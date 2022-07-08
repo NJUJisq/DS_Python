@@ -1,0 +1,10 @@
+six
+pygraphviz
+pytest
+pytest-xdist
+pytest-cov
+pycodestyle
+pytest-runner
+dill
+mock
+graphviz

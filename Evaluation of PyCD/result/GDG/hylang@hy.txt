@@ -1,0 +1,11 @@
+astor
+colorama
+flake8
+pytest
+funcparserlib
+pygments
+sphinx-rtd-theme
+rply
+coverage
+sphinx
+tox

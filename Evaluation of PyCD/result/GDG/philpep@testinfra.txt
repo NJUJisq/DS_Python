@@ -1,0 +1,15 @@
+alabaster
+.
+six
+paramiko
+pytest
+ansible
+importlib
+pytest-xdist
+hacking
+pytest-cov
+tornado
+pywinrm
+salt
+mock
+sphinx

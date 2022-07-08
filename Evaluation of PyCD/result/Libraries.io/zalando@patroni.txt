@@ -1,0 +1,13 @@
+six
+click
+kubernetes
+boto
+prettytable
+psutil
+python-consul
+kazoo
+urllib3
+cdiff
+python-dateutil
+python-etcd
+pyyaml

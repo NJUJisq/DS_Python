@@ -1,0 +1,11 @@
+numpy
+cloudpickle
+tensorflow-probability
+sklearn
+sphinx-rtd-theme
+pandas
+scipy
+tensorflow
+joblib
+pillow
+scikit-learn

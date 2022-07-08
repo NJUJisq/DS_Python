@@ -1,0 +1,4 @@
+six
+requests
+update-checker
+decorator

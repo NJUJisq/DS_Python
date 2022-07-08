@@ -1,0 +1,13 @@
+typing-extensions
+sphinxcontrib-restbuilder
+sphinxcontrib-plantuml
+readthedocs-sphinx-search
+cjkwrap
+sphinx-autodoc-typehints
+ruamel.yaml
+pytest
+bullet
+mypy
+1a23-telemetry
+sphinx
+sphinx-intl

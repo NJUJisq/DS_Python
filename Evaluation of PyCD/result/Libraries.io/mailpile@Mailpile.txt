@@ -1,0 +1,13 @@
+lxml
+nose
+markupsafe
+jinja2
+pydns
+pbr
+pillow
+coverage
+spambayes
+mock
+selenium
+tox
+pgpdump

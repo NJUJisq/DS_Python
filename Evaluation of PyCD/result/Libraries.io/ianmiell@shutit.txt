@@ -1,0 +1,7 @@
+six
+jinja2
+future
+curtsies
+cjkwrap
+pexpect
+texttable

@@ -1,0 +1,14 @@
+tqdm
+tensorpack
+argparse
+pycocotools
+scipy
+numba
+requests
+slidingwindow
+psutil
+dill
+fire
+tensorpack
+scikit-image
+matplotlib

@@ -1,0 +1,8 @@
+cerberus
+pymongo
+click
+flask
+pytest
+pytest-cov
+pyquery
+requests-mock

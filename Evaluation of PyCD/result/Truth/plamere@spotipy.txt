@@ -1,0 +1,4 @@
+requests
+sphinx
+six
+mock

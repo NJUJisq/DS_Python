@@ -1,0 +1,9 @@
+termcolor
+six
+flask
+tensorflow
+numpy
+flask-compress
+flask-json
+pyzmq
+gputil
